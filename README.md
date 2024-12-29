@@ -8,6 +8,7 @@
 * [Wireshark work3](chapter2/Wireshark/DNS/DNS-Wireshark.md)<br>用Wireshark了解DNS协议的构造。
 * [Wireshark work4](chapter3/Wireshark/TCP/TCP-Wireshark.md)<br>用Wireshark了解TCP协议的构造。
 * [Wireshark work5](chapter3/Wireshark/UDP/UDP-Wireshark.md)<br>用Wireshark了解UDP协议的构造。
+* [Wireshark work6](chapter4/Wireshark/IP/IP-Wireshark.md)<br>用Wireshark了解UDP协议的构造。
 
 ### Socket Program:
 * [Socket work1](chapter2/Socket/WebServer-Socket/Socket.md)<br>掌握SocketAPI的基本使用。

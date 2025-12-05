@@ -42,8 +42,6 @@
     * `expected_seq_num`: 期望收到的下一个序号。
     * `last_ack_pkt`: 保存上一次发送的 ACK 包（用于重传）。
 
----
-
 ## 详细实现
 
 ### 校验和 (`calc_checksum`)

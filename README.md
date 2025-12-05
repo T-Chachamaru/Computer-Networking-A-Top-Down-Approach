@@ -22,6 +22,6 @@
 * [Socket work5](chapter5/Socket/ICMP-Socket/Socket.md)<br>通过学习ICMP的请求与回显消息来实现一个ping应用程序。
 
 ### Miscellaneous Labs
-* [Lab1](chapter3/ReliableTransportProtocol/ReliableTransportProtocol.md)<br>实现一个简单的可靠传输协议。待做。
+* [Lab1](chapter3/ReliableTransportProtocol/lab1.md)<br>实现一个简单的可靠传输协议。
 * [Lab2](chapter5/distributed-asynchronous-distance-vector-routing/distributedasynchronousdistancevectorrouting.md)<br>实现一个分布式距离向量路由算法。待做。
 * Lab3<br>无设备。
